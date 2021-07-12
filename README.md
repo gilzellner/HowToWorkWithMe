@@ -4,7 +4,7 @@
 
 More often than not, I find that arguments are a result of miscommunication.
 This is a guide on how I like to work, my expections from you, a person who would like to work with me.
-Following these guidelines will allow you 
+Following these guidelines will allow you to get more from me, and we will have extra time to do fun things.
 
 ## Communication
 
