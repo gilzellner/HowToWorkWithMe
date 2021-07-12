@@ -27,7 +27,7 @@ If you just want to have a beer with me and BBQ, we can do that too, but that is
 ## Meetings
 
 Meetings are for synchronous communications which costly, inaccurate, unsearchable and overall inefficient.
-[Jeff Bezos](https://www.thinkbusiness.ie/articles/jeff-bezos-rules-productive-meetings-amazon/), a smarted man than I am, figured it out.
+[Jeff Bezos](https://www.thinkbusiness.ie/articles/jeff-bezos-rules-productive-meetings-amazon/), a smarter man than I am, figured it out.
 The gist is:
 Plan what you want to discuss in advance, be up front about it, and have meeting agenda.
 
